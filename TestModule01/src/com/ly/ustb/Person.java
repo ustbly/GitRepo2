@@ -7,5 +7,6 @@ package com.ly.ustb;
  */
 public class Person {
     private String name;
+    private int age;
     private double height;
 }
